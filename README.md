@@ -1,133 +1,123 @@
 # C++ Programming Course
 
-A comprehensive C++ programming course covering fundamentals to advanced concepts with video tutorials and practical exercises.
+A comprehensive C++ programming course covering fundamentals to advanced concepts.
 
-## 📚 Course Contents
+## 📚 Course Content
 
 ### Lecture 1: Introduction to C++
-Learn the basics of programming and set up your development environment.
 
-**Topics Covered:**
-- What is Program & Programming?
-- Language Types & Categories
-- Programming Language Types
-- Where does C++ fit in?
-- Download & Install Code::Blocks
+#### Part 1 - [Introduction to C++](https://youtu.be/d0yp9Lzwokc)
+- What is Program? What is Programming?
+- What is Language? Does Language have types? What they are?
+- Does Programming have types? What they are? In which type of languages and which type of programming C++ exist?
+- What you need to start programming with C++ - Download, Install Code::Blocks
 
-**📹 Video:** [Watch Lecture 1](https://youtu.be/d0yp9Lzwokc)
-
----
-
-### Lecture 2: First Program, Output & Arithmetic Operations
-Write your first C++ program and learn basic operations.
+#### Part 2 - First Program In C++, Output, Arithmetic Operations
+**Videos:**
+- [Part 2A](https://youtu.be/pvTt03zN4UE)
+- [Part 2B](https://youtu.be/eu6nD8y_nCo)
 
 **Topics Covered:**
 - First Program in C++
-- Output instructions: `\n` and `endl`
-- Escape Sequences & Characters
-- `namespace std`
-- Arithmetic Operators
-- Remainder (Modulus) Operator
+- Output instruction `\n` and `endl`
+- Escape Sequence & Escape Character
+- namespace std
+- Arithmetic operators
+- What is Remainder or Modulus?
 
-**📹 Videos:**
-- [Part 1](https://youtu.be/pvTt03zN4UE)
-- [Part 2](https://youtu.be/eu6nD8y_nCo)
+#### Practice Sessions
+- [cout Practice Questions](https://youtu.be/m4U3kB_5Kms) - Output instruction (cout), escape sequence, mathematical operations
 
-**🎯 Practice:**
-- [Practice Problems Playlist](https://www.youtube.com/playlist?list=PLCZPUiJ5kQaE9LPaQA9jtiLeGP28xRhlF) - Questions on output (`cout`), escape sequences, and mathematical operations
-
----
-
-### Lectures 3 & 4: Variables, Input & Control Flow
-Master variables, user input, and decision-making structures.
-
-**Topics Covered:**
-- Variable Initialization Options
-- `cin` Syntax & Usage
-- Insertion vs Extraction Stream Operators
-- Console Input Behavior
-- Return Key (Enter) Functionality
-- Decision Making: If Conditions
-- Conditional Operators
-- Nested If Statements
-- Input & Condition Practice
-
-**📹 Videos:**
-- [Part 1](https://youtu.be/X37ynOFQAE0)
-- [Part 2](https://youtu.be/BxF2314AAoU)
-- [Part 3](https://youtu.be/k1q6Q8-B9Zw)
+#### 🔬 Lab Sessions
+- **Lab 1:** [cout questions - Let's Practice](https://youtu.be/iigSvEnKFVs)
+- **Lab 2:** [What is the output of these programs? - Let's Practice](https://youtu.be/o5bAHRVDP1w)
 
 ---
 
-### Lecture 5: Advanced Input, Data Types & Loops
-Explore data types, operators, and loop structures.
+### Lecture 2: Variables, Data Types, Input
+
+**Video:** [Watch Lecture](https://youtu.be/X37ynOFQAE0) | [Part 2](https://youtu.be/BxF2314AAoU)
 
 **Topics Covered:**
-- Multiple Variables with `cin`
-- Delimiters: Enter, Space, Tab
-- String Input with Spaces
-- Single vs Multiple Comments
-- `bool` Data Type
-- Boolean & Conditions Relationship
-- `float` vs `double`
-- Data Type Modifiers
-- Compound Assignment Operators
-- Prefix & Postfix Increment/Decrement
-- Loop Fundamentals (4 Components)
-- `for` and `while` Loop Syntax
-- Loop Practice Problems
+- Variable initialization options
+- cin syntax and meaning
+- Insertion VS Extraction stream operator
+- How cin line appear in console window?
+- Return key (Enter) functionality
 
-**📹 Videos:**
+#### 🔬 Lab Sessions
+- **Lab 3:** [Practice Questions on Variables, Data types, cin (inputs) - Let's Practice](https://youtu.be/yN6FD36KygM)
+
+---
+
+### Lecture 3: Decision Making, If Condition, Switch
+
+**Video:** [Watch Lecture](https://youtu.be/k1q6Q8-B9Zw)
+
+**Topics Covered:**
+- What is decision making: If condition syntax
+- Conditional operators
+- Nested If
+- cin and If Questions
+
+---
+
+### Lecture 4: Advanced Inputs, Bool Datatype, Loops
+
+**Videos:**
 - [Part 1](https://youtu.be/QFCgIutXZzU)
 - [Part 2](https://youtu.be/0JlnYtHCu4Y)
 - [Part 3](https://youtu.be/UMG3ULx1TTA)
 - [Part 4](https://youtu.be/DHiYM9C45jA)
 - [Part 5](https://youtu.be/BRJBjWhykS8)
 
+**Topics Covered:**
+- cin to receive many variables
+- Delimiters: Enter - Space - Tab
+- Does cin receive string with spaces?
+- Single VS Multiple comments
+- bool datatype
+- Relation between bool and condition
+- Difference between float and double
+- Datatype Modifiers
+- Compound assignment
+- Prefix and Postfix Increment VS Decrement
+- Loop concept: Loop 4 components
+- for and while syntax
+- Loop questions
+
 ---
 
-### Lecture 6: Loop Types & Practical Programs
-Choose the right loop type and build real programs.
+### Lecture 5: Loop Types & Practical Programs
 
-**Topics Covered:**
-- Sum of Numbers (1-20)
-- Sum of Even Numbers
-- Sum of Odd Numbers
-- Combined Even/Odd Sum (Single Loop)
-- Variable Scope
-- Number Multiples
-- Arithmetic Overflow
-- `break` & `continue` Statements
-- Loop Type Selection Guide
-- When to Use: `for`, `while`, `do-while`
-
-**Practical Programs:**
-1. Positive Number Validator
-2. Simple Calculator with Repeat
-3. String Input with Spaces (`getline()`)
-
-**📹 Videos:**
+**Videos:**
 - [Part 1](https://youtu.be/-KGYxT0XdTY)
 - [Part 2](https://youtu.be/C4Q01ieBmiE)
 - [Part 3](https://youtu.be/iLnMi2WEa_c)
 - [Part 4](https://youtu.be/547nMcX8oPk)
 - [Part 5](https://youtu.be/oXMFcjgoJIM)
 
+**Topics Covered:**
+1. Print sum of numbers from 1 to 20
+2. Print sum of even numbers from 1 to 20
+3. Print sum of odd numbers from 1 to 20
+4. Print sum of even and odd numbers from 1 to 20 using one loop only
+5. Variable Scope
+6. Print multiple of numbers from 1 to 20
+7. Arithmetic Overflow
+8. Break & Continue
+9. Example for Break & Continue
+10. Loop types
+11. When to use for - while - do while
+12. Program that repeatedly prompts the user to enter a positive number
+13. Simple calculator program with repeat functionality
+14. Receive string with spaces using getline() function
+
 ---
 
-### Lecture 7: Input Buffer, Manipulators & Type Conversions
-Handle input properly and work with type conversions.
+### Lecture 6: Input Buffer & Stream Manipulators
 
-**Topics Covered:**
-- Input Buffer Management
-- Stream Manipulators
-- `string(num, char)` Function
-- Logical Operators (`&&`, `||`, `!`)
-- Conditional (Ternary) Operator `?:`
-- Data Type Conversion & Casting
-- Character ASCII Codes
-
-**📹 Videos:**
+**Videos:**
 - [Part 1](https://youtu.be/SiT4cYFrkz4)
 - [Part 2](https://youtu.be/qolskncis40)
 - [Part 3](https://youtu.be/fFIe2T6Vgmk)
@@ -135,126 +125,102 @@ Handle input properly and work with type conversions.
 - [Part 5](https://youtu.be/7c9ePYEd32s)
 - [Part 6](https://youtu.be/rM_ax4sD0Ew)
 
+**Topics Covered:**
+- Input Buffer
+- Stream Manipulators
+- string(num, char)
+- Refresh on logical operators (&&  ||  !)
+- Conditional operator ?:
+- Datatype Conversion and casting
+- char ASCII code
+
 ---
 
-### Lecture 8: Arrays
-Store and manipulate collections of data.
+### Lecture 7: Arrays
 
-**Topics Covered:**
-- 1D Arrays
-  - Definition & Purpose
-  - When to Use Arrays
-  - Display vs Receive Operations
-  - Array Memory Addresses
-- 2D Arrays
-- Array Class Template
-
-**📹 Videos:**
+**Videos:**
 - [Part 1](https://youtu.be/iYfRkWKAH1Q)
 - [Part 2](https://youtu.be/AMhwe9Ry24c)
 - [Part 3](https://youtu.be/2uWChodXaLM)
 
+**Topics Covered:**
+- 1D Array
+- Definition, why array exist? When to use array
+- Display VS receive
+- Array Address
+- 2D Array
+- Array Class Template
+
 ---
 
-### Lecture 9: Functions
-Organize code with reusable functions.
+### Lecture 8: Functions
 
-**Topics Covered:**
-- Why Functions are Needed
-- Function Syntax & Definition
-- Function Placement in Code
-- Function Prototypes
-- Function Overloading
-- Variable Scope: Local vs Global vs Static
-- Scope Resolution Operator `::`
-- Tricky Questions & Best Practices
-
-**📹 Videos:**
+**Videos:**
 - [Part 1](https://youtu.be/G7vx6AvEiC8)
 - [Part 2](https://youtu.be/hDX2DdZ8xgI)
 - [Part 3](https://youtu.be/HmPAGeWjb4I)
 
+**Topics Covered:**
+- Why we need functions?
+- Syntax & definition
+- Where to write functions
+- Function prototypes
+- Function Overloading
+- Local VS Global VS Static Variables
+- Scope resolution operator
+- Tricky Questions
+
 ---
 
-### Lectures 10 & 11: Pointers
-Master memory management with pointers.
+### Lecture 9, 10 & 11: Pointers
 
-**Topics Covered:**
-- What are Pointers & Why Use Them?
-- Pointer Syntax & Examples
-- Pointers with Functions
-  - Pass by Value
-  - Pass by Address
-- Memory Regions: Stack vs Heap vs Global
-- Advanced Pointer Concepts
-- Compiler vs Developer Memory Management
-- Dynamic vs Static Allocation
-- Stack Overflow Errors
-- Pointers with Arrays
-- Dangling Pointers
-- Memory Leaks
-- Practical Examples
-
-**📹 Videos:**
+**Videos:**
 - [Part 1](https://youtu.be/wLFW94o_fps)
 - [Part 2](https://youtu.be/i0EQlReL4eM)
 - [Part 3](https://youtu.be/1Rt8wxaSrSI)
 
+**Topics Covered:**
+1. What is Pointer? Why need it?
+2. Pointer Syntax, Example
+3. Pointers with function: Pass by value & Pass by address
+4. Memory region to store variables with variables types
+5. Memory Stack VS Heap VS Global
+6. Advances with Pointers
+7. Compiler Management VS Developer Management
+8. Manage pointer in Stack or Heap or both?
+9. Dynamic VS Static Allocations
+10. Stack Overflow error
+11. Pointers with Arrays
+12. Dangling Pointer
+13. Memory Leak
+14. Practice & More Examples
+
 ---
-
-## 🎯 Learning Path
-
-```mermaid
-graph TD
-    A[Lecture 1: Introduction] --> B[Lecture 2: First Program]
-    B --> C[Lectures 3-4: Variables & Input]
-    C --> D[Lecture 5: Data Types & Loops]
-    D --> E[Lecture 6: Practical Programs]
-    E --> F[Lecture 7: Advanced Input]
-    F --> G[Lecture 8: Arrays]
-    G --> H[Lecture 9: Functions]
-    H --> I[Lectures 10-11: Pointers]
-```
 
 ## 🛠️ Prerequisites
 
-- **IDE:** Code::Blocks (Download instructions in Lecture 1)
-- **Compiler:** GCC/G++ (included with Code::Blocks)
-- **Operating System:** Windows, Linux, or macOS
+- Code::Blocks IDE installed
+- Basic understanding of computer fundamentals
+- Willingness to practice regularly
 
-## 📖 How to Use This Course
+## 📝 How to Use This Course
 
-1. **Follow the order:** Start from Lecture 1 and progress sequentially
-2. **Watch videos:** Each lecture includes video tutorials
-3. **Practice:** Complete the practice problems after each lecture
-4. **Code along:** Write the code yourself while watching videos
-5. **Review:** Revisit previous lectures when needed
-
-## 💡 Tips for Success
-
-- ✅ Practice coding daily
-- ✅ Complete all exercises before moving to the next lecture
-- ✅ Don't skip the practice playlist
-- ✅ Debug your own code before checking solutions
-- ✅ Take notes on key concepts
+1. Watch lectures in order
+2. Complete lab sessions after each lecture
+3. Practice coding examples
+4. Review concepts before moving to next lecture
 
 ## 🤝 Contributing
 
-Found an issue or want to contribute? Feel free to:
-- Open an issue
-- Submit a pull request
-- Suggest improvements
-
-## 📝 License
-
-This course content is provided for educational purposes.
+Feel free to contribute by:
+- Reporting issues
+- Suggesting improvements
+- Adding practice problems
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue in this repository.
+For questions or support, please open an issue in this repository.
 
 ---
 
-**Happy Coding! 🚀**
-
-*Star ⭐ this repository if you find it helpful!*
+**Happy Coding! 💻**
