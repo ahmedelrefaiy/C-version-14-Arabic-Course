@@ -37,6 +37,7 @@ A comprehensive C++ programming course covering fundamentals to advanced concept
 ### Lecture 2: Variables, Data Types, Input
 
 **Video:** [Watch Lecture](https://youtu.be/X37ynOFQAE0) | [Part 2](https://youtu.be/BxF2314AAoU)
+- **Lecture 2 Practice File** [Lecture Practice File](./Lecture Practice/lec2-variables-cin - dr-ahmed elrefaiy.cpp)
 
 **Topics Covered:**
 - Variable initialization options
