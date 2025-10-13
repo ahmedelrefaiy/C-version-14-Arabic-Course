@@ -6,16 +6,20 @@ A comprehensive C++ programming course covering fundamentals to advanced concept
 
 ### Lecture 1: Introduction to C++
 
-#### Part 1 - [Introduction to C++](https://youtu.be/d0yp9Lzwokc)
+#### Part 1 
+**Lecture Videos:**
+- [Video 1: Introduction to C++](https://youtu.be/d0yp9Lzwokc)
+
+**Topics Covered:**
 - What is Program? What is Programming?
 - What is Language? Does Language have types? What they are?
 - Does Programming have types? What they are? In which type of languages and which type of programming C++ exist?
 - What you need to start programming with C++ - Download, Install Code::Blocks
 
 #### Part 2 - First Program In C++, Output, Arithmetic Operations
-**Videos:**
-- [Part 2A](https://youtu.be/pvTt03zN4UE)
-- [Part 2B](https://youtu.be/eu6nD8y_nCo)
+**Lecture Videos:**
+- [Video 1: Part 2A](https://youtu.be/pvTt03zN4UE)
+- [Video 2: Part 2B](https://youtu.be/eu6nD8y_nCo)
 
 **Topics Covered:**
 - First Program in C++
@@ -26,18 +30,18 @@ A comprehensive C++ programming course covering fundamentals to advanced concept
 - What is Remainder or Modulus?
 
 #### Practice Sessions
-- [cout Practice Questions](https://youtu.be/m4U3kB_5Kms) - Output instruction (cout), escape sequence, mathematical operations
+- [Video 4: cout Practice Questions](https://youtu.be/m4U3kB_5Kms) - Output instruction (cout), escape sequence, mathematical operations
 
 #### 🔬 Lab Sessions
-- **Lab 1:** [cout questions - Let's Practice](https://youtu.be/iigSvEnKFVs)
-- **Lab 2:** [What is the output of these programs? - Let's Practice](https://youtu.be/o5bAHRVDP1w)
+- **Lab 1:** [Lab 1: cout questions - Let's Practice](https://youtu.be/iigSvEnKFVs)
+- **Lab 2:** [Lab 2: What is the output of these programs? - Let's Practice](https://youtu.be/o5bAHRVDP1w)
 
 ---
 
 ### Lecture 2: Variables, Data Types, Input
 
-**Video:** [Watch Lecture](https://youtu.be/X37ynOFQAE0) | [Part 2](https://youtu.be/BxF2314AAoU)
-- **Lecture 2 Practice File** [practice file](./Lecture-Practice/lec2-variables-cin-dr-ahmed-elrefaiy.cpp)
+**Lecture Videos:** [Video 1: Watch Lecture](https://youtu.be/X37ynOFQAE0) | [Video 2: Part 2](https://youtu.be/BxF2314AAoU) | [Video 3: Part 3](https://youtu.be/QFCgIutXZzU)
+- **Lecture 2 Practice File** [practice c++ file](./Lecture-Practice/lec2-variables-cin-dr-ahmed-elrefaiy.cpp)
 
 **Topics Covered:**
 - Variable initialization options
@@ -45,40 +49,50 @@ A comprehensive C++ programming course covering fundamentals to advanced concept
 - Insertion VS Extraction stream operator
 - How cin line appear in console window?
 - Return key (Enter) functionality
+- cin to receive many variables
+- Delimiters: Enter - Space - Tab
+- Does cin receive string with spaces?
+- Single VS Multiple comments
 
 #### 🔬 Lab Sessions
-- **Lab 3:** [Practice Questions on Variables, Data types, cin (inputs) - Let's Practice](https://youtu.be/yN6FD36KygM)
+- **Lab 3:** [Lab 3: Practice Questions on Variables, Data types, cin (inputs) - Let's Practice](https://youtu.be/yN6FD36KygM)
 
 ---
 
 ### Lecture 3: Decision Making, If Condition, Switch
 
-**Video:** [Watch Lecture](https://youtu.be/k1q6Q8-B9Zw)
+**Lecture Videos:** 
+- [Video 1: part 1](https://youtu.be/k1q6Q8-B9Zw)
+- [Video 2: Part 2](https://youtu.be/0JlnYtHCu4Y)
+- [Video 3: Part 3](https://youtu.be/32lpc0uooeE)
 
 **Topics Covered:**
 - What is decision making: If condition syntax
 - Conditional operators
 - Nested If
 - cin and If Questions
+-  bool datatype
+- Relation between bool and condition
+- logical operators
+- bool vs if
+- switch
+- practical questions
+
+#### 🔬 Lab Sessions
+- **Lab 4:** [Lab 4: Practice Questions on if conditions, switch - Let's Practice](https://youtu.be/l2yriVNj0ls)
+
 
 ---
 
 ### Lecture 4: Advanced Inputs, Bool Datatype, Loops
 
-**Videos:**
-- [Part 1](https://youtu.be/QFCgIutXZzU)
-- [Part 2](https://youtu.be/0JlnYtHCu4Y)
+**Lecture Videos:**
+
 - [Part 3](https://youtu.be/UMG3ULx1TTA)
 - [Part 4](https://youtu.be/DHiYM9C45jA)
 - [Part 5](https://youtu.be/BRJBjWhykS8)
 
 **Topics Covered:**
-- cin to receive many variables
-- Delimiters: Enter - Space - Tab
-- Does cin receive string with spaces?
-- Single VS Multiple comments
-- bool datatype
-- Relation between bool and condition
 - Difference between float and double
 - Datatype Modifiers
 - Compound assignment
