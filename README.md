@@ -126,6 +126,10 @@ A comprehensive C++ programming course covering fundamentals to advanced concept
 - Exam Questions about loops, break, continue
 - Nested loops + exam question + tasks to solve
 
+
+#### 🔬 Lab Sessions
+- **Lab 5 (part 2):** [Lab 5: Advanced Practice Questions on loops](https://youtu.be/vdg1bG2CcYc)
+
 ---
 
 ### Lecture 6: Input Buffer & Stream Manipulators
