@@ -41,7 +41,7 @@ A comprehensive C++ programming course covering fundamentals to advanced concept
 ### Lecture 2: Variables, Data Types, Input
 
 **Lecture Videos:** [Video 1: Watch Lecture](https://youtu.be/X37ynOFQAE0) | [Video 2: Part 2](https://youtu.be/BxF2314AAoU) | [Video 3: Part 3](https://youtu.be/QFCgIutXZzU)
-- **Lecture 2 Practice File** [practice c++ file](./Lecture-Practice/lec2-variables-cin-dr-ahmed-elrefaiy.cpp)
+- **Lecture 2 Practice File** [Lec2 practice c++ file](./Lecture-Practice/lec2-variables-cin-dr-ahmed-elrefaiy.cpp)
 
 **Topics Covered:**
 - Variable initialization options
@@ -61,10 +61,8 @@ A comprehensive C++ programming course covering fundamentals to advanced concept
 
 ### Lecture 3: Decision Making, If Condition, Switch
 
-**Lecture Videos:** 
-- [Video 1: part 1](https://youtu.be/k1q6Q8-B9Zw)
-- [Video 2: Part 2](https://youtu.be/0JlnYtHCu4Y)
-- [Video 3: Part 3](https://youtu.be/32lpc0uooeE)
+**Lecture Videos:** [Video 1: part 1](https://youtu.be/k1q6Q8-B9Zw) | [Video 2: Part 2](https://youtu.be/0JlnYtHCu4Y) | [Video 3: Part 3](https://youtu.be/32lpc0uooeE)
+  - **Lecture 2 Practice File** [Lec3 practice c++ file](./Lecture-Practice/Lec3_decision_cin_advance-dr-ahmed elrefaiy.cpp)
 
 **Topics Covered:**
 - What is decision making: If condition syntax
