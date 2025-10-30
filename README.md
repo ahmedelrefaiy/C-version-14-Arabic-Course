@@ -128,7 +128,7 @@ A comprehensive C++ programming course covering fundamentals to advanced concept
 
 
 #### 🔬 Lab Sessions
-- **Lab 5 (part 2):** [Lab 5: Advanced Practice Questions on loops](https://youtu.be/vdg1bG2CcYc)
+- **Lab 5 (part 2):** [Lab 5 (part 2): Advanced Practice Questions on loops](https://youtu.be/vdg1bG2CcYc)
 
 ---
 
