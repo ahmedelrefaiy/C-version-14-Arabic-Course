@@ -103,11 +103,15 @@ A comprehensive C++ programming course covering fundamentals to advanced concept
 - Variable Scope
 - Print multiple of numbers from 1 to 20
 
+
+#### 🔬 Lab Sessions
+- **Lab 5:** [Lab 5: Practice Questions on loops](https://youtu.be/zNpsC5_jcg8)
+
 ---
 
-### Lecture 5: Arithmetic Overflow, break + continue, Loops Advances, for VS while VS do while , Practical Programs
+### Lecture 5: Arithmetic Overflow, break + continue, Loops Advances, for VS while VS do while, Nested Loops , Practical Programs
 
-**Videos:** [Part 1](https://youtu.be/C4Q01ieBmiE) | [Part 2](https://youtu.be/iLnMi2WEa_c) | [Part 3](https://youtu.be/547nMcX8oPk) 
+**Videos:** [Part 1](https://youtu.be/C4Q01ieBmiE) | [Part 2](https://youtu.be/iLnMi2WEa_c) | [Part 3](https://youtu.be/547nMcX8oPk) | [Part 4](https://youtu.be/AKEvdvJK4H4)
   - **Lecture 5 Practice File** [Lec5 practice c++ file](./Lecture-Practice/lec5_break_continue_loops-dr-ahmed-elrefaiy.cpp)
 
 **Topics Covered:**
@@ -119,6 +123,8 @@ A comprehensive C++ programming course covering fundamentals to advanced concept
 - When to use for - while - do while
 - Program that repeatedly prompts the user to enter a positive number
 - Simple calculator program with repeat functionality
+- Exam Questions about loops, break, continue
+- Nested loops
 
 ---
 
