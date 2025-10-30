@@ -62,7 +62,7 @@ A comprehensive C++ programming course covering fundamentals to advanced concept
 ### Lecture 3: Decision Making, If Condition, Switch
 
 **Lecture Videos:** [Video 1: part 1](https://youtu.be/k1q6Q8-B9Zw) | [Video 2: Part 2](https://youtu.be/0JlnYtHCu4Y) | [Video 3: Part 3](https://youtu.be/32lpc0uooeE)
-  - **Lecture 2 Practice File** [Lec3 practice c++ file](./Lecture-Practice/Lec3_decision_cin_advance-dr-ahmed elrefaiy.cpp)
+  - **Lecture 3 Practice File** [Lec3 practice c++ file](./Lecture-Practice/Lec3_decision_cin_advance-dr-ahmed-elrefaiy.cpp)
 
 **Topics Covered:**
 - What is decision making: If condition syntax
@@ -82,13 +82,11 @@ A comprehensive C++ programming course covering fundamentals to advanced concept
 
 ---
 
-### Lecture 4: Advanced Inputs, Bool Datatype, Loops
+### Lecture 4: Datatype Modifiers, compound Assignemnt, Prefix-Postfix, Loops + Practice, Variable Scope
 
-**Lecture Videos:**
+**Lecture Videos:** [Part 1](https://youtu.be/UMG3ULx1TTA) |  [Part 2](https://youtu.be/DHiYM9C45jA) | [Part 3](https://youtu.be/BRJBjWhykS8) |  [Part 4](https://youtu.be/-KGYxT0XdTY) | [Part 5](https://youtu.be/C4Q01ieBmiE)
 
-- [Part 3](https://youtu.be/UMG3ULx1TTA)
-- [Part 4](https://youtu.be/DHiYM9C45jA)
-- [Part 5](https://youtu.be/BRJBjWhykS8)
+  - **Lecture 4 Practice File** [Lec4 practice c++ file](./Lecture-Practice/lec4_modifiers_compound_loops-dr-ahmed-elrefaiy.cpp)
 
 **Topics Covered:**
 - Difference between float and double
@@ -98,33 +96,29 @@ A comprehensive C++ programming course covering fundamentals to advanced concept
 - Loop concept: Loop 4 components
 - for and while syntax
 - Loop questions
+- Print sum of numbers from 1 to 20
+- Print sum of even numbers from 1 to 20
+- Print sum of odd numbers from 1 to 20
+- Print sum of even and odd numbers from 1 to 20 using one loop only
+- Variable Scope
+- Print multiple of numbers from 1 to 20
 
 ---
 
-### Lecture 5: Loop Types & Practical Programs
+### Lecture 5: Arithmetic Overflow, break + continue, Loops Advances, for VS while VS do while , Practical Programs
 
-**Videos:**
-- [Part 1](https://youtu.be/-KGYxT0XdTY)
-- [Part 2](https://youtu.be/C4Q01ieBmiE)
-- [Part 3](https://youtu.be/iLnMi2WEa_c)
-- [Part 4](https://youtu.be/547nMcX8oPk)
-- [Part 5](https://youtu.be/oXMFcjgoJIM)
+**Videos:** [Part 1](https://youtu.be/C4Q01ieBmiE) | [Part 2](https://youtu.be/iLnMi2WEa_c) | [Part 3](https://youtu.be/547nMcX8oPk) 
+  - **Lecture 5 Practice File** [Lec5 practice c++ file](./Lecture-Practice/lec5_break_continue_loops-dr-ahmed-elrefaiy.cpp)
 
 **Topics Covered:**
-1. Print sum of numbers from 1 to 20
-2. Print sum of even numbers from 1 to 20
-3. Print sum of odd numbers from 1 to 20
-4. Print sum of even and odd numbers from 1 to 20 using one loop only
-5. Variable Scope
-6. Print multiple of numbers from 1 to 20
-7. Arithmetic Overflow
-8. Break & Continue
-9. Example for Break & Continue
-10. Loop types
-11. When to use for - while - do while
-12. Program that repeatedly prompts the user to enter a positive number
-13. Simple calculator program with repeat functionality
-14. Receive string with spaces using getline() function
+
+- Arithmetic Overflow
+- Break & Continue
+- Example for Break & Continue
+- Loop types
+- When to use for - while - do while
+- Program that repeatedly prompts the user to enter a positive number
+- Simple calculator program with repeat functionality
 
 ---
 
